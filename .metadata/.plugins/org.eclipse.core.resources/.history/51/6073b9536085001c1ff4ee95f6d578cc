@@ -1,0 +1,11 @@
+package site.metacoding.ex13;
+
+// ½ÇÇà : Ctrl + F11
+public class FlowLayoutEx01 {
+
+	public static void main(String[] args) {
+        MyFrame mf = new MyFrame();
+
+	}
+
+}

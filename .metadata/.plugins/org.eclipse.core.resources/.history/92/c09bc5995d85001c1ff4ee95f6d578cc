@@ -1,0 +1,11 @@
+package site.metacoding.ex13;
+
+// Ctrl + F11
+public class FrameTest {
+
+	public static void main(String[] args) {
+        MyFrame mf = new MyFrame();
+
+	}
+
+}

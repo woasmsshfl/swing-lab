@@ -1,0 +1,14 @@
+package site.metacoding.ex13;
+
+public class NullLayoutEx01 extends MyFrame{
+	
+	public NullLayoutEx01() {
+		super(300,500);
+		setVisible(true);
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

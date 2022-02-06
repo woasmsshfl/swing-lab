@@ -1,0 +1,14 @@
+package site.metacoding.ex13;
+
+public class BorderLayoutEx01 extends MyFrame{
+	
+	public BorderLayoutEx01() {
+		super(500,500);
+	}
+
+	public static void main(String[] args) {
+		new BorderLayoutEx01();
+
+	}
+
+}
